@@ -1,2 +1,1 @@
-Repository for the project created at HackDuke, 2014 Fall.
-
+Project for HackDuke 2014
