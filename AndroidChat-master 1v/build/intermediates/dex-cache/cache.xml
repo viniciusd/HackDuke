@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/igormacedo/AndroidStudioProjects/AndroidChat-master 1v/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-1.0.8-b43c2953ca87b529fe21cd7c5d69a81760aa1065.jar"
+        jar="/home/igormacedo/AndroidStudioProjects/AndroidChat-master 1v/app/libs/firebase-client-jvm-1.0.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a388364a370a9012242c67fac837cc3f47426947"/>
+    <item
+        dex="/home/igormacedo/AndroidStudioProjects/AndroidChat-master/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-1.0.8-93239032215ff31c1124a765d7b4542b64e1a9d7.jar"
+        jar="/home/igormacedo/AndroidStudioProjects/AndroidChat-master/app/libs/firebase-client-jvm-1.0.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a388364a370a9012242c67fac837cc3f47426947"/>
+
+</pre-dex-items>
